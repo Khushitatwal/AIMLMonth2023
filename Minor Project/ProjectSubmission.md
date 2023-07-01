@@ -2,7 +2,7 @@ Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
 
 Student Name      :   < Your good name >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Problem statement al m
 
 Google Colab Link :   < View only link of your Google Colab Notebook >
 
